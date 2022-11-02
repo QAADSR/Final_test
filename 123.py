@@ -1,2 +1,18 @@
-x = [int(_) for _ in input().split()]
-print(sorted(x, reverse=True))
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
+# no changes added to commit
